@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohamed1380
 - 👀 I’m interested in Devops and aws cloud
 - 🌱 I’m currently learning Devops Tools annd aws
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m a Student in intensive code camp at ITI
 - 📫 How to reach me mabdahady139@gmail.com,
 
 <!---
